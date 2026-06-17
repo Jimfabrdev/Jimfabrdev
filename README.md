@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Jim 👋
 
-<!--
-**Jimfabrdev/Jimfabrdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a self-taught cybersecurity enthusiast and hobbyist. I don't have a formal computer science degree or a wall of certifications, but I love figuring out how computers talk to each other, how networks operate, and how security tools detect anomalies. 
 
-Here are some ideas to get you started:
+Right now, I am focusing all my free time on hands-on practice inside my local lab to build up my skills and working towards landing an offensive developer internship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My Current Learning Path
+
+* **Python Development:** Learning how to write practical scripts, simple network tools, and automation scripts from scratch.
+* **Lab Environments:** Setting up virtual machines (Windows and Linux) in VirtualBox to test code behavior and see how operating systems react.
+* **Security Basics:** Getting familiar with basic Kali Linux tools, network traffic concepts, and analyzing simple communication scripts.
+
+---
+
+## 📂 Active Projects
+
+### 💻 [Iterative C2 Framework Analysis](https://github.com/Jimfabrdev/Iterative-C2-Framework-Analysis)
+This is my primary learning project. It tracks my progress as I learn network programming in Python. I started by building a basic, raw TCP script, and then challenged myself to rewrite it using simple HTTP requests to see how changing the network protocol changes how a system reacts. It’s a work in progress, but it represents me figuring things out step-by-step.
+
+---
+
+## ⚙️ My Simple Lab Setup
+
+* **Environments:** Windows 10 & Linux VMs managed via VirtualBox
+* **Tools I use:** Python 3, Wireshark (for looking at traffic), and standard command-line tools
+* **Focus:** Breaking things down to understand the core physics of network connections.
+
+---
+*“Just trying to learn something new every day and see how far curiosity can take me.”*
