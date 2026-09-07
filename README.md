@@ -19,12 +19,17 @@ Right now, I am focusing all my free time on hands-on practice inside my local l
 ### 💻 [Iterative C2 Framework Analysis](https://github.com/Jimfabrdev/Iterative-C2-Framework-Analysis)
 This is my primary learning project. It tracks my progress as I learn network programming in Python. I started by building a basic, raw TCP script, and then challenged myself to rewrite it using simple HTTP requests to see how changing the network protocol changes how a system reacts. It’s a work in progress, but it represents me figuring things out step-by-step.
 
+### 🔍 [native-binary-validation-study](https://github.com/Jimfabrdev/native-binary-validation-study)
+A small project where I reverse engineered a simple C authentication program to find the hidden password. It taught me the basics of static analysis, reading assembly, and understanding how programs validate input.
+
+### 🎣 [PhishPilot](https://github.com/Jimfabrdev/PhishPilot)
+A phishing simulation tool that clones login pages using a headless browser, so it works on JavaScript-heavy sites that break traditional cloning tools. It hijacks forms, captures credentials, and serves the result through a local Flask server. Built for red team engagements and authorized testing only.
 ---
 
 ## ⚙️ My Simple Lab Setup
 
-* **Environments:** Windows 10 & Linux VMs managed via VirtualBox
-* **Tools I use:** Python 3, Wireshark (for looking at traffic), and standard command-line tools
+* **Environments:** Windows 10 & Linux VMs managed via VirtualBox.
+* **Tools I use:** Python 3, Wireshark (for looking at traffic), x64dbg (for reverse engineering) and standard command-line tools.
 * **Focus:** Breaking things down to understand the core physics of network connections.
 
 ---
