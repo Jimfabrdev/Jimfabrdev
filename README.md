@@ -1,37 +1,58 @@
 # Hi there, I'm Jim 👋
 
-I am a self-taught cybersecurity enthusiast and hobbyist. I don't have a formal computer science degree or a wall of certifications, but I love figuring out how computers talk to each other, how networks operate, and how security tools detect anomalies. 
+**Python tutor & hands-on developer.** I teach Python online — one-on-one,
+over Zoom, with real projects instead of slide decks.
 
-Right now, I am focusing all my free time on hands-on practice inside my local lab to build up my skills and working towards landing an offensive developer internship.
-
----
-
-## 🛠️ My Current Learning Path
-
-* **Python Development:** Learning how to write practical scripts, simple network tools, and automation scripts from scratch.
-* **Lab Environments:** Setting up virtual machines (Windows and Linux) in VirtualBox to test code behavior and see how operating systems react.
-* **Security Basics:** Getting familiar with basic Kali Linux tools, network traffic concepts, and analyzing simple communication scripts.
+I'm self-taught. No CS degree, no wall of certificates — just years of
+figuring out how computers work by building things, breaking them, and fixing
+them. That's exactly how I teach: we open an editor, write code, and solve a
+real problem together.
 
 ---
 
-## 📂 Active Projects
+## 🎓 Python Tutoring (online, 1-on-1)
 
-### 💻 [Iterative C2 Framework Analysis](https://github.com/Jimfabrdev/Iterative-C2-Framework-Analysis)
-This is my primary learning project. It tracks my progress as I learn network programming in Python. I started by building a basic, raw TCP script, and then challenged myself to rewrite it using simple HTTP requests to see how changing the network protocol changes how a system reacts. It’s a work in progress, but it represents me figuring things out step-by-step.
+- **Format:** Zoom, screen-sharing, we code together live.
+- **Level:** absolute beginners → intermediate. No prior experience needed.
+- **What we cover:** Python basics, automation scripts, small network tools,
+  reading and debugging code, project structure, and fun projects like simple
+  games.
+- **Style:** project-based. You leave every session with working code, not notes.
+- **Languages:** English / Greek.
 
-### 🔍 [native-binary-validation-study](https://github.com/Jimfabrdev/native-binary-validation-study)
-A small project where I reverse engineered a simple C authentication program to find the hidden password. It taught me the basics of static analysis, reading assembly, and understanding how programs validate input.
+### 💶 Pricing
 
-### 🎣 [PhishPilot](https://github.com/Jimfabrdev/PhishPilot)
-A phishing simulation tool that clones login pages using a headless browser, so it works on JavaScript-heavy sites that break traditional cloning tools. It hijacks forms, captures credentials, and serves the result through a local Flask server. Built for red team engagements and authorized testing only.
+- **Trial lesson — 5€** · 30–45 min, one small project, see if we're a good fit.
+- **Regular lesson — 10€ / hour** · no commitment, pay as you go.
+
+📩 **Book a trial:** 
+
+---
+
+## 🔐 Security research (side projects)
+
+Outside teaching, I'm a self-taught cybersecurity enthusiast. These are the
+projects I build to keep my skills sharp — and the kind of thing we can dig
+into in a lesson if you're curious.
+
+### 💻 Iterative C2 Framework Analysis
+My main learning project: tracking my progress in Python network programming.
+Started with a raw TCP script, then rewrote it using simple HTTP requests to see
+how changing the protocol changes how a system reacts. A work in progress — me
+figuring things out step by step.
+
+### 🔍 native-binary-validation-study
+Reverse engineered a simple C authentication program to find the hidden password.
+Taught me the basics of static analysis, reading assembly, and how programs
+validate input.
+
+### ⚙️ Lab setup
+Windows 10 & Linux VMs in VirtualBox. Tools: Python 3, Wireshark, x64dbg, and
+standard command-line tools. Focus: breaking things down to understand the core
+physics of network connections.
 
 ---
 
-## ⚙️ My Simple Lab Setup
+## 🧰 Tools I teach with
 
-* **Environments:** Windows 10 & Linux VMs managed via VirtualBox.
-* **Tools I use:** Python 3, Wireshark (for looking at traffic), x64dbg (for reverse engineering) and standard command-line tools.
-* **Focus:** Breaking things down to understand the core physics of network connections.
-
----
-*“Just trying to learn something new every day and see how far curiosity can take me.”*
+`Python 3` · `VS Code` · `Git & GitHub` · `VirtualBox` · `Linux`
