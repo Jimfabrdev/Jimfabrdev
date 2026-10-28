@@ -25,7 +25,7 @@ real problem together.
 - **Trial lesson — 5€** · 30–45 min, one small project, see if we're a good fit.
 - **Regular lesson — 10€ / hour** · no commitment, pay as you go.
 
-📩 **Book a trial:** 
+📩 **Book a trial:** jim.pythontutor@gmail.com
 
 ---
 
